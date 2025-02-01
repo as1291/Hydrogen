@@ -1,0 +1,3 @@
+/mnt/d/CODES/compiler/hydrogen/cmake-build-relwithdebinfo-wsl/CMakeFiles/hydro.dir
+/mnt/d/CODES/compiler/hydrogen/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/mnt/d/CODES/compiler/hydrogen/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
