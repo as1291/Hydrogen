@@ -9,7 +9,7 @@ This compiler is written in C++.
 Requires `nasm` and `ld` on a Linux operating system.
 
 ```bash
-cd hydrogen-cpp
+cd Hydrogen
 mkdir build
 cmake -S . -B build
 cmake --build build
