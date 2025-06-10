@@ -1,9 +1,17 @@
-Hydrogen Lang (CPP Compiler)
-It is called Hydrogen because it is simple and lightweight.
+# Hydrogen Lang (CPP Compiler)
+
+Hydrogen is a programming language. It is called Hydrogen because it is simple and lightweight.
+
 This compiler is written in C++.
 
-Building
+## Building
+
+Requires `nasm` and `ld` on a Linux operating system.
+
+```bash
+git clone https://github.com/orosmatthew/hydrogen-cpp
 cd hydrogen-cpp
 mkdir build
 cmake -S . -B build
 cmake --build build
+```
